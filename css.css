@@ -1,0 +1,112 @@
+body
+              {
+                
+                border-style:hidden;
+                border-width:5px;
+                border-radius:2px;
+                border-color:black;
+
+                padding:2%;
+                margin:1% 1% 1% 1%;
+
+              }
+              .three
+              {
+                border-style:hidden;
+                border-width:2px;
+                border-radius:1px;
+                border-color:black;
+              }
+              .four
+              {
+                border-style:hidden;
+                border-width:2px;
+                border-radius:1px;
+                border-color:black;
+
+                margin:10%;
+                padding:0%;
+              }
+              .mohi
+              {
+                background-image:url(https://img.freepik.com/free-photo/abstract-coral-orange-color-background_53876-104720.jpg?w=2000);
+                background-repeat:no-repeat;
+                background-attachment:scroll;
+                background-position:center;
+                background-size:100% 100%;
+
+
+
+                border-style:solid;
+                border-width:1px;
+                border-color:black;
+                margin:4% 0% 2% 0%;
+                padding:2%;
+              }
+              #mohi
+              {
+                background-image:url(https://png.pngtree.com/thumb_back/fh260/back_our/20190625/ourmid/pngtree-sky-blue-ink-style-background-image_260100.jpg);
+                background-repeat:no-repeat;
+                background-attachment:scroll;
+                background-position:center;
+                background-size:100% 100%;
+
+
+
+                border-style:solid;
+                border-width:1px;
+                border-radius:3px;
+                border-color:black;
+
+                padding:2%;
+
+              }
+              .mahi
+              {
+                background-image:url(https://png.pngtree.com/thumb_back/fh260/back_our/20190625/ourmid/pngtree-sky-blue-ink-style-background-image_260100.jpg);
+                background-repeat:no-repeat;
+                background-attachment:scroll;
+                background-position:center;
+                background-size:100% 100%;
+
+                border-style:solid;
+                border-radius:3px;
+                border-width:1px;
+                border-color:black;
+
+                margin:3%;
+                padding:1%;
+              }
+              .final
+              {
+                border-style:hidden;
+                border-width:1px;
+                border-radius:2px;
+                border-color:black;
+
+                margin:3%;
+                padding:2%;
+              }
+              .nav
+              {
+                 background-color:rgb(255,99,71,0.7); 
+                 padding:2%;
+              }
+              .nav a
+              {
+                text-decoration:none;
+                position:relative;
+                left:25%;
+                color:black;
+                padding:1%;
+              }
+              *
+              {
+                margin:0%
+              }
+              #logonav
+              {
+                position:relative;
+                left:5%;
+                text-indent:55%;
+              }
